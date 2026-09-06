@@ -7,6 +7,10 @@ This repository is a public, deployable project showcase and documentation
 website for HiveMind. It contains a static frontend alongside the existing
 public documentation and brand assets.
 
+## Live Showcase
+
+- [Open the HiveMind Showcase](https://h1vem1nd.pages.dev/)
+
 ## Overview
 
 HiveMind is designed around guided collaboration. The product helps people move
